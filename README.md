@@ -1,3 +1,5 @@
+# Deprecated.  See https://github.com/internetarchive/iaux-typescript-wc-template
+
 # IAJS
 
 Internet Archive client for the web.
